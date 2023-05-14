@@ -1,0 +1,14 @@
+- PIN must be 4 digit only, show an error msg if incorrect pin.
+- keyboard / manually typing the on the textbox must be disabled. Only the button clicks are enabled.
+- Once na click yung button other buttons will be disabled. 
+- If naclick yung CANCEL btn maeeject yung card babalik ng Insert Your Card(home)
+
+
+
+
+*** Those are the comments of my prof during the initial checking. 
+
+
+
+=========================
+Though I have made a design already but I still have more errors on my coding, please feel free to correct those and you may update me with the process, let me know if may questions or clarifications din kayo. Thank you so much!

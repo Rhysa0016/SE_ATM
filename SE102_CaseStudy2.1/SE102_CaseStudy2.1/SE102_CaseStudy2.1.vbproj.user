@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CheckBAL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMAIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OPTIONS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Withdraw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
